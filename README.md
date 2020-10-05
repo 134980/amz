@@ -13,3 +13,6 @@ git clone https://github.com/AlvinGhazali/amz
 cd amz
 
 python2 amz.py
+
+Username: amz
+Password: amz
