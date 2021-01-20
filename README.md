@@ -1,18 +1,20 @@
-#INSTALL
+# INSTALL
 
-pkg update && pkg upgrade
+* pkg update && pkg upgrade
 
-pkg install git
+* pkg install git
 
-pkg install python2
+* pkg install python2
 
-pkg install nodejs
+* pkg install nodejs
 
-git clone https://github.com/AlvinGhazali/amz
+* git clone https://github.com/AlvinGhazali/amz
 
-cd amz
+* cd amz
 
-python2 amz.py
+* python2 amz.py
 
+``` java
 Username: amz
 Password: amz
+```
